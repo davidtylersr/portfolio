@@ -5,7 +5,7 @@ Welcome to my portfolio repository! Here, you'll find my latest updated resume a
 ## Resume and Cover Letter
 
 - [Download Resume (DOC)](DavidTyler_Res.doc)
-- [Download Cover Letter (DOCX)](DTCovLtr.docx)
+- [Download Cover Letter (DOCX)](DTCoverLtr.docx)
 
 Feel free to take a look and learn more about my skills, experiences, and qualifications through my resume and cover letter.
 
