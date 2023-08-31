@@ -15,7 +15,7 @@ In addition to my resume and cover letter, I've included a selection of projects
 
 - [Project 1 (PDF)](link_to_P1-get-ready-to-market-proj.pdf)
 - [Project 2 (PDF)](link_to_Draw-insights_Marketing-Data-Proj.pdf)
-- [Project 3 (PDF)](link_to_PYUR_OrganicandPaidSocialMediaStrategy.pdf)
+- [Project 3 (PDF)](PYUR_OrganicandPaidSocialMediaStrategy.pdf)
 
 Each project demonstrates different aspects of my abilities, from technical skills to problem-solving and creativity.
 
