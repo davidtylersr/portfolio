@@ -4,8 +4,8 @@ Welcome to my portfolio repository! Here, you'll find my latest updated resume a
 
 ## Resume and Cover Letter
 
-- [Download My Resume (DOC)](link_to_DavidTyler_Res.doc)
-- [Download My Cover Letter (DOCX)](link_to_DTCovLtr.docx)
+- [Download My Resume (DOC)](DavidTyler_Res.doc)
+- [Download My Cover Letter (DOCX)](DTCovLtr.docx)
 
 Feel free to take a look and learn more about my skills, experiences, and qualifications through my resume and cover letter.
 
@@ -13,9 +13,9 @@ Feel free to take a look and learn more about my skills, experiences, and qualif
 
 In addition to my resume and cover letter, I've included a selection of projects that I've completed. These projects highlight my skills and expertise in various areas. You can explore them further by downloading the project files:
 
-- [Project 1 (PDF)](link_to_P1-get-ready-to-market-proj.pdf)
-- [Project 2 (PDF)](link_to_Draw-insights_Marketing-Data-Proj.pdf)
-- [Project 3 (PDF)](PYUR_OrganicandPaidSocialMediaStrategy.pdf)
+- [Download Project 1 PDF](P1-get-ready-to-market-project.pdf)
+- [Download Project 2 (PDF)](Draw-Insights_from_marketing-Data-project.pdf)
+- [Download Project 3 (PDF)](PYUR_OrganicandPaidSocialMediaStrategy.pdf)
 
 Each project demonstrates different aspects of my abilities, from technical skills to problem-solving and creativity.
 
